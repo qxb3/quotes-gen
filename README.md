@@ -1,17 +1,17 @@
-# Quotes Generator
+# Quotes Gen
 
 A easy to use quotes generator
 
 # Installation
 ```bash
-npm install quotes-generator
+npm install quotes-gen
 # Or
 yarn add quotes-generator
 ```
 
 # Usage
 ```js
-const generateQuotes = require('quotes-generatir')
+const generateQuotes = require('quotes-gen')
 
 // Will generate 10 random quotes
 generateQuotes(10)
