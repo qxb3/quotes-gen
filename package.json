@@ -1,0 +1,13 @@
+{
+  "name": "quotes-generator",
+  "description": "An easy to use quotes generator",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon ./tests/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
