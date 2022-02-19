@@ -7,6 +7,12 @@
     "url": "https://github.com/qxb3/quotes-generator",
     "type": "github"
   },
+  "keywords": [
+    "quotes generator",
+    "quotes",
+    "generator",
+    "random"
+  ],
   "main": "src/index.js",
   "scripts": {
     "dev": "nodemon ./tests/index.js"
