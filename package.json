@@ -1,10 +1,10 @@
 {
-  "name": "quotes-gen",
+  "name": "quotes-generator",
   "description": "A easy to use quotes generator",
   "version": "1.0.0",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/qxb3/quotes-gen",
+    "url": "https://github.com/qxb3/quotes-generator",
     "type": "github"
   },
   "keywords": [
