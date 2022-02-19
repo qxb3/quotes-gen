@@ -4,7 +4,9 @@ A easy to use quotes generator
 
 # Installation
 ```bash
-git clone https://github.com/qxb3/quotes-generator.git
+npm install quotes-generator
+# Or
+yarn add quotes-generator
 ```
 
 # Usage
