@@ -6,7 +6,7 @@ A easy to use quotes generator
 ```bash
 npm install quotes-gen
 # Or
-yarn add quotes-generator
+yarn add quotes-gen
 ```
 
 # Usage
