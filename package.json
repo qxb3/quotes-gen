@@ -1,7 +1,7 @@
 {
   "name": "quotes-gen",
   "description": "A easy to use quotes generator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "MIT",
   "repository": {
     "url": "https://github.com/qxb3/quotes-gen",
